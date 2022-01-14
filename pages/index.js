@@ -4,7 +4,7 @@ import { useState } from 'react'
 function Home() {
     return (
         <div>
-            <h4>Pagina Home</h4>
+            <h4>Pagina Inicial</h4>
 
         </div>
     )
